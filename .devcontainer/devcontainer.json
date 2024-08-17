@@ -17,7 +17,13 @@
 		"vscode": {
 			"extensions": [
 				"ms-toolsai.jupyter",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"KevinRose.vsc-python-indent",
+				"oderwat.indent-rainbow",
+				"ms-toolsai.jupyter-renderers",
+				"julialang.language-julia",
+				"Iterative.dvc",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	},
