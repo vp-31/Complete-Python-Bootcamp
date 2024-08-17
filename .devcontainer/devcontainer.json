@@ -21,9 +21,8 @@
 				"KevinRose.vsc-python-indent",
 				"oderwat.indent-rainbow",
 				"ms-toolsai.jupyter-renderers",
-				"julialang.language-julia",
-				"Iterative.dvc",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"TabNine.tabnine-vscode"
 			]
 		}
 	},
