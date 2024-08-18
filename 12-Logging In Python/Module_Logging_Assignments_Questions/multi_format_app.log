@@ -1,0 +1,10 @@
+2024-08-18 09:31:13,277 - multi_format_logger - DEBUG - This is a debug message
+2024-08-18 09:31:13,279 - multi_format_logger - INFO - This is an info message
+2024-08-18 09:31:13,280 - multi_format_logger - WARNING - This is a warning message
+2024-08-18 09:31:13,281 - multi_format_logger - ERROR - This is an error message
+2024-08-18 09:31:13,283 - multi_format_logger - CRITICAL - This is a critical message
+2024-08-18 09:42:20,030 - multi_format_logger - DEBUG - This is a debug message
+2024-08-18 09:42:20,033 - multi_format_logger - INFO - This is an info message
+2024-08-18 09:42:20,036 - multi_format_logger - WARNING - This is a warning message
+2024-08-18 09:42:20,038 - multi_format_logger - ERROR - This is an error message
+2024-08-18 09:42:20,040 - multi_format_logger - CRITICAL - This is a critical message
